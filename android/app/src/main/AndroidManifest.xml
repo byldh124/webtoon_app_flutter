@@ -1,8 +1,18 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    <queries>
+        <!-- If your app checks for SMS support -->
+        <intent>
+            <action android:name="android.intent.action.VIEW" />
+            <data android:scheme="https" />
+        </intent>
+    </queries>
+
     <application
         android:label="webtoon_app"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
+        <!-- Provide required visibility configuration for API level 30 and above -->
+
         <activity
             android:name=".MainActivity"
             android:exported="true"
