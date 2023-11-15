@@ -1,16 +1,6 @@
 # webtoon_app
+플러터 학습용. api를 이용하여 네이버 오늘의 웹툰을 보여준다.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Screen Shot
+<img src="https://github.com/byldh124/webtoon_app_flutter/assets/78577050/601b2a80-5419-4f97-8ffa-eb94a3e4a31d" width="25%">
+<img src="https://github.com/byldh124/webtoon_app_flutter/assets/78577050/3f3023e2-c105-46a1-8f33-6de579c0b869" width="25%">
